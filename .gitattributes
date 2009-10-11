@@ -158,6 +158,8 @@ src/mylib/ColorStatic.h -text
 src/mylib/CommsLamp.cpp -text
 src/mylib/CommsLamp.h -text
 src/mylib/DragSizerBmp.cpp -text
+src/mylib/FileEditCtrl.cpp -text
+src/mylib/FileEditCtrl.h -text
 src/mylib/MYLIB.APS -text
 src/mylib/MYLIB.dep -text
 src/mylib/MYLIB.dsp -text
