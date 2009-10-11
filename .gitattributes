@@ -12,6 +12,11 @@ src/mod_RSsim/AdvEmulationDlg.cpp -text
 src/mod_RSsim/AdvEmulationDlg.h -text
 src/mod_RSsim/AnimationSettings.cpp -text
 src/mod_RSsim/AnimationSettings.h -text
+src/mod_RSsim/CSVFileImportDlg.cpp -text
+src/mod_RSsim/CSVFileImportDlg.h -text
+src/mod_RSsim/CSVReader.cpp -text
+src/mod_RSsim/CSVReader.cpp.bak -text
+src/mod_RSsim/CSVReader.h -text
 src/mod_RSsim/ColorPickerCB.cpp -text
 src/mod_RSsim/ColorPickerCB.h -text
 src/mod_RSsim/CommsLamp.cpp -text
@@ -57,6 +62,8 @@ src/mod_RSsim/ServerSettingsEthDlg.cpp -text
 src/mod_RSsim/ServerSettingsEthDlg.h -text
 src/mod_RSsim/ServerSocketArray.cpp -text
 src/mod_RSsim/ServerSocketArray.h -text
+src/mod_RSsim/SimCmdLine.cpp -text
+src/mod_RSsim/SimCmdLine.h -text
 src/mod_RSsim/Splash.cpp -text
 src/mod_RSsim/Splash.h -text
 src/mod_RSsim/StarWarsCtrl.cpp -text
@@ -114,6 +121,7 @@ src/mod_RSsim/myhandcu.cur -text
 src/mod_RSsim/output.html -text
 src/mod_RSsim/plantsim.h -text
 src/mod_RSsim/processor.h -text
+src/mod_RSsim/random.vbs -text
 src/mod_RSsim/res/MOD_RSsim.rc2 -text
 src/mod_RSsim/res/MOD_RSsimul.ico -text
 src/mod_RSsim/res/RTStimes.ico -text
