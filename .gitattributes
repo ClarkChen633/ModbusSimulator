@@ -112,7 +112,6 @@ src/mod_RSsim/mod_RSsim.opt -text
 src/mod_RSsim/mod_RSsim.plg -text
 src/mod_RSsim/mod_RSsim.rc -text
 src/mod_RSsim/mod_RSsim.sln -text
-src/mod_RSsim/mod_RSsim.suo -text
 src/mod_RSsim/mod_RSsim.vcproj -text
 src/mod_RSsim/mod_RSsim.vcproj.HOME2.Conrad.user -text
 src/mod_RSsim/mod_RSsim_home.htm -text
