@@ -33,6 +33,8 @@ src/mod_RSsim/EditMemoryDlg.cpp -text
 src/mod_RSsim/EditMemoryDlg.h -text
 src/mod_RSsim/FaultsDlg.cpp -text
 src/mod_RSsim/FaultsDlg.h -text
+src/mod_RSsim/FileEditCtrl.cpp -text
+src/mod_RSsim/FileEditCtrl.h -text
 src/mod_RSsim/HtmlOutput.h -text
 src/mod_RSsim/MOD232CommsProcessor.cpp -text
 src/mod_RSsim/MOD232CommsProcessor.h -text
@@ -105,7 +107,6 @@ src/mod_RSsim/mod_RSsim.dsp -text
 src/mod_RSsim/mod_RSsim.dsw -text
 src/mod_RSsim/mod_RSsim.h -text
 src/mod_RSsim/mod_RSsim.mak -text
-src/mod_RSsim/mod_RSsim.ncb -text
 src/mod_RSsim/mod_RSsim.odl -text
 src/mod_RSsim/mod_RSsim.opt -text
 src/mod_RSsim/mod_RSsim.plg -text
