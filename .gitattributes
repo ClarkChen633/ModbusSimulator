@@ -221,6 +221,9 @@ src/testserver/TestSvr.h -text
 src/testserver/TestSvr.opt -text
 src/testserver/TestSvr.plg -text
 src/testserver/TestSvr.rc -text
+src/testserver/TestSvr.sln -text
+src/testserver/TestSvr.suo -text
+src/testserver/TestSvr.vcproj -text
 src/testserver/TraceData.cpp -text
 src/testserver/TraceData.h -text
 src/testserver/abstract_factory.h -text
