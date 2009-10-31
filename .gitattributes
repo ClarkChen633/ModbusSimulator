@@ -165,7 +165,6 @@ src/mylib/MYLIB.dep -text
 src/mylib/MYLIB.dsp -text
 src/mylib/MYLIB.dsw -text
 src/mylib/MYLIB.mak -text
-src/mylib/MYLIB.ncb -text
 src/mylib/MYLIB.opt -text
 src/mylib/MYLIB.plg -text
 src/mylib/MYLIB.rc -text
