@@ -76,6 +76,8 @@ src/mod_RSsim/Tools.h -text
 src/mod_RSsim/TrainingSimDlg.cpp -text
 src/mod_RSsim/TrainingSimDlg.h -text
 src/mod_RSsim/UTIL.CPP -text
+src/mod_RSsim/UpdateCheck.cpp -text
+src/mod_RSsim/UpdateCheck.h -text
 src/mod_RSsim/_README.CPP -text
 src/mod_RSsim/help/images/CVS/Entries -text
 src/mod_RSsim/help/images/CVS/Entries.Extra -text
@@ -148,6 +150,7 @@ src/mod_RSsim/serverRS232array.h -text
 src/mod_RSsim/simport.cpp -text
 src/mod_RSsim/simport.h -text
 src/mod_RSsim/util.h -text
+src/mod_RSsim/versioninfo.txt -text
 src/mylib/ColorPickerCB.cpp -text
 src/mylib/ColorPickerCB.h -text
 src/mylib/ColorStatic.cpp -text
