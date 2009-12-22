@@ -1,5 +1,6 @@
 * text=auto !eol
 /README.TXT -text
+src/Setup/Setup.vdproj -text
 src/mod_RSsim/123.vbs -text
 src/mod_RSsim/ABComms.cpp -text
 src/mod_RSsim/ABCommsProcessor.cpp -text
