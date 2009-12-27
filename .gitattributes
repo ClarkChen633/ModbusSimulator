@@ -98,6 +98,7 @@ src/mod_RSsim/help/index.htm -text
 src/mod_RSsim/htmloutput.cpp -text
 src/mod_RSsim/joysccemulation.cpp -text
 src/mod_RSsim/joysccemulation.h -text
+src/mod_RSsim/license.txt -text
 src/mod_RSsim/message.cpp -text
 src/mod_RSsim/message.h -text
 src/mod_RSsim/mod_RSsim.aps -text
