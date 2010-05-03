@@ -59,6 +59,8 @@ src/mod_RSsim/RS232Port.h -text
 src/mod_RSsim/ReadMe.txt -text
 src/mod_RSsim/Resizer.cpp -text
 src/mod_RSsim/Resizer.h -text
+src/mod_RSsim/SelfRegistrationDlg.cpp -text
+src/mod_RSsim/SelfRegistrationDlg.h -text
 src/mod_RSsim/ServerSettings232Dlg.cpp -text
 src/mod_RSsim/ServerSettings232Dlg.h -text
 src/mod_RSsim/ServerSettingsEthDlg.cpp -text
