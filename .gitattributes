@@ -153,6 +153,8 @@ src/mod_RSsim/serverRS232array.cpp -text
 src/mod_RSsim/serverRS232array.h -text
 src/mod_RSsim/simport.cpp -text
 src/mod_RSsim/simport.h -text
+src/mod_RSsim/stringcvt.cpp -text
+src/mod_RSsim/stringcvt.h -text
 src/mod_RSsim/util.h -text
 src/mod_RSsim/versioninfo.txt -text
 src/mylib/ColorPickerCB.cpp -text
