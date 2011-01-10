@@ -1,5 +1,7 @@
 * text=auto !eol
 /README.TXT -text
+src/Setup/Setup.sln -text
+src/Setup/Setup.suo -text
 src/Setup/Setup.vdproj -text
 src/mod_RSsim/123.vbs -text
 src/mod_RSsim/ABComms.cpp -text
